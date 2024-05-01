@@ -1,0 +1,13 @@
+body {
+  background-image: url("../img/fondo-home.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  image-rendering: auto;
+}
+
+img {
+  width: 50rem;
+  border-radius: 10rem;
+  margin-top: 9rem;
+  margin-left: 15rem;
+}/*# sourceMappingURL=styles.css.map */
